@@ -13,6 +13,8 @@ As suggested in the application, please find the link to the CV of both of us.
 ![](IMG_20210311_130555.jpg)
 
 We have a Franka Emika Panda Robotic Arm for our research work at University of Glasgow, UK. If required, we will be using various end effectors and vision system for the successful completion of this competition.
-I have experience in developing **ROS** nodes and mapping algorithm for the teleoperation of **Franka Robotic Arm** utilising parameters of the **Opti track 3-D motion tracking** systems.
-I have good exposure in integrating vision system for the **object and color detection and manipulation of the objects** using Dobot Magician Robotic Arm. I have also integrated and tested the **YOLO deep learning model** utilising the camera system of Pepper Humaniod Robot.  
+Shivoh has experience in developing **ROS** nodes and mapping algorithm for the teleoperation of **Franka Robotic Arm** utilising parameters of the **Opti track 3-D motion tracking** systems.
+He has good exposure in integrating vision system for the **object and color detection and manipulation of the objects** using Dobot Magician Robotic Arm. Further, he has integrated and tested the **YOLO deep learning model** utilising the camera system of Pepper Humaniod Robot. He is passionate about robotics and loves to solve challenging problems.
+Liyuan has participated in several Computer-vision based projects. In his third year of undergraduate,he worked as a image-processing programmer in a line patrol robot project in which he developed a algorithm to distinguish a path from a complicated background by using **OpenCV**. During his first year of PhD, he helped to build up a hand gesture recognition system(based on computer vision) which is a component of a tele-operation and **manipulation system** for the Softbank Humanoid Robot Pepper. 
+
 
