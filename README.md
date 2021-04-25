@@ -4,9 +4,8 @@ We believe Robothon is a great opportunity for us to showcase our passion in Rob
 
 As suggested in the application, please find the link to the CV of both of us.
 
-Shivoh Chirayil Nandakumar -[CV](CV_March.pdf)
-
-Liyuan Qi - [CV](CV.pdf)
+*Shivoh Chirayil Nandakumar* -[CV](CV_March.pdf)
+*Liyuan Qi* - [CV](CV.pdf)
 
 
 ## Robot system
