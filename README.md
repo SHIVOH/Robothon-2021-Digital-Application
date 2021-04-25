@@ -10,7 +10,7 @@ As suggested in the application, please find the link to the CV of both of us.
 
 ## Robot system
 
-![IMG_20210311_130555.jpg]
+![](IMG_20210311_130555.jpg)
 
 We have a Franka Emika Panda Robotic Arm for our research work at University of Glasgow, UK. If required, we will be using various end effectors and vision system for the successful completion of this competition.
 I have experience in developing **ROS** nodes and mapping algorithm for the teleoperation of **Franka Robotic Arm** utilising parameters of the **Opti track 3-D motion tracking** systems.
